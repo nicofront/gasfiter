@@ -2450,7 +2450,8 @@ html.ie9 .call-to-action.button-centered .container > .row > [class*="col-"], ht
 
 .card-body {
 	padding: 32px;
-	padding: 2rem;
+	/*padding: 2rem;*/
+	padding: 32px 20px;
 }
 
 .card-text-color-hover-light:hover * {
