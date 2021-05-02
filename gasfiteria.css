@@ -148,11 +148,17 @@ body {
 		margin-left: 15px; } }
 
 @media (min-width: 992px) {
-	#header .header-nav-main nav > ul > li > a {
+	#header .header-nav-main nav > ul > li > a, #header .header-nav.header-nav-links nav > ul > li > a {
 		font-size: 14px;
-		padding: 0 1rem !important;
-		font-weight: 600; } }
+		padding: 0 16px;
+		font-weight: 600; } 
+}
 
+@media (max-width: 1200px) {
+	#header .header-nav.header-nav-links nav > ul > li > a, #header .header-nav.header-nav-links nav > ul > li > a:hover{
+		padding: 0 8px;
+	}
+}
 /*
 * Home - Intro
 */
