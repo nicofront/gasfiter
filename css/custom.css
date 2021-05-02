@@ -1,0 +1,27 @@
+/* Add here all your CSS customizations */
+.owl-carousel{
+    display: flex !important;  
+    flex-direction: row;   
+    justify-content: center;
+    
+}
+
+@media (min-width: 992px) { 
+    .minh {
+        min-height: 450px;
+    }
+  }
+
+@media (min-width: 992px) { 
+  .minh2 {
+      min-height: 550px;
+  }
+}
+
+@media (min-width: 1200px) { 
+    .minh {
+        min-height: 500px;
+    }
+}
+
+/* fin */
