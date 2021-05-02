@@ -472,7 +472,7 @@
 
 							<div class="sort-destination-loader sort-destination-loader-loaded mt-1 pt-2">
                                     <div id="portfolioLoadMoreWrapper" class="row row-gutter-sm portfolio-list sort-destination overflow-visible justify-content-center" data-sort-id="portfolio" data-total-pages="3" data-ajax-url="ajax/demo-it-services-ajax-load-more-">
-                                        <div class="col-lg-3 col-sm-2 col-md-2 pb-1 mb-3  mr-3 ml-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">
+                                        <div class="col-lg-3 col-md-3 pb-1 mb-3  mr-3 ml-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">
                                             <div class="card border-0 custom-box-shadow-1 minh2 p-1">
                                                 <div class="card-body">
                                                     <a href="javascript:;" class="text-decoration-none">
@@ -486,7 +486,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-lg-3 col-sm-2 col-md-2 pb-1 mb-3  mr-3 ml-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">
+                                        <div class="col-lg-3 col-md-3 pb-1 mb-3  mr-3 ml-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">
                                             <div class="card border-0 custom-box-shadow-1 minh2 p-1">
                                                 <div class="card-body">
                                                     <a href="javascript:;" class="text-decoration-none">
@@ -501,7 +501,7 @@
                                             </div>
 										</div>
 										
-										<div class="col-lg-3 col-sm-2 col-md-2 pb-1 mb-3  mr-3 ml-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1100">
+										<div class="col-lg-3 col-md-3 pb-1 mb-3  mr-3 ml-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1100">
                                             <div class="card border-0 custom-box-shadow-1 minh2 p-1">
                                                 <div class="card-body">
                                                     <a href="javascript:;" class="text-decoration-none">
@@ -521,7 +521,7 @@
 							
 							<div class="sort-destination-loader sort-destination-loader-loaded mt-1 pt-2">
                                     <div id="portfolioLoadMoreWrapper" class="row row-gutter-sm portfolio-list sort-destination overflow-visible justify-content-center" data-sort-id="portfolio" data-total-pages="3" data-ajax-url="ajax/demo-it-services-ajax-load-more-">
-                                        <div class="col-lg-3 col-sm-2 col-md-2 pb-1 mb-3  mr-3 ml-3 purchaseappear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">
+                                        <div class="col-lg-3 col-md-3 pb-1 mb-3  mr-3 ml-3 purchaseappear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">
                                             <div class="card border-0 custom-box-shadow-1 minh p-1">
                                                 <div class="card-body">
                                                     <a href="javascript:;" class="text-decoration-none">
@@ -534,7 +534,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-lg-3 col-sm-2 col-md-2 pb-1 mb-3  mr-3 ml-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
+                                        <div class="col-lg-3 col-md-3 pb-1 mb-3  mr-3 ml-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">
                                             <div class="card border-0 custom-box-shadow-1 minh p-1">
                                                 <div class="card-body">
                                                     <a href="javascript:;" class="text-decoration-none">
@@ -548,7 +548,7 @@
                                             </div>
 										</div>
 										
-										<div class="col-lg-3 col-sm-2 col-md-2 pb-1 mb-3 mr-3 ml-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1300">
+										<div class="col-lg-3 col-md-3 pb-1 mb-3 mr-3 ml-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1300">
                                             <div class="card border-0 custom-box-shadow-1 minh p-1">
                                                 <div class="card-body">
                                                     <a href="javascript:;" class="text-decoration-none">
